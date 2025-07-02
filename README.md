@@ -1,4 +1,4 @@
 # sample
 this is my first git repository.
 <br>
-author - bejji tanusri
+author - bejji tanusri(tanu)
